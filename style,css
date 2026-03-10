@@ -1,0 +1,8 @@
+h3  {
+background-color: #00c3ff;
+width: 400px;
+height: 100px;
+padding:60px;
+border: 10px solid #0a1d74;
+margin:50px;
+}
